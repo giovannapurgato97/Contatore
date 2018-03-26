@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * funzione che visualizza il valore del contatore.
+     * funzione che visualizza il valore del contatore.!
      */
     private void visualizzaMessaggio (){
         vMessaggio.setText(getString(R.string.valore) + contatore);
